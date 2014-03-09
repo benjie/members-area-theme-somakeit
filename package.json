@@ -1,6 +1,6 @@
 {
   "name": "members-area-theme-somakeit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Southampton Makerspace theme for Members Area",
   "main": "index.coffee",
   "scripts": {
