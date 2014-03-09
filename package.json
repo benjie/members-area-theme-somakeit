@@ -1,0 +1,20 @@
+{
+  "name": "members-area-theme-somakeit",
+  "version": "0.0.0",
+  "description": "Southampton Makerspace theme for Members Area",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/benjie/members-area-theme-somakeit.git"
+  },
+  "author": "Benjie Gillam <code@benjiegillam.com>",
+  "license": "Proprietary",
+  "bugs": {
+    "url": "https://github.com/benjie/members-area-theme-somakeit/issues"
+  },
+  "homepage": "https://github.com/benjie/members-area-theme-somakeit",
+  "dependencies": {}
+}
